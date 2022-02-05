@@ -1,0 +1,7 @@
+git commit --amend -m "Updated"
+
+git reset --hard
+
+git reset --hard HEAD~1or2...
+
+git push origin HEAD --force
